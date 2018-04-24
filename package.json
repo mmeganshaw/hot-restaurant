@@ -1,0 +1,28 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "A restaurant app that allows the first five users to reserve a table. Hurry up! ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmeganshaw/hot-restaurant.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "megan shaw, doug kellermeyer, robert relief, mckenzie hartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmeganshaw/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/mmeganshaw/hot-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
